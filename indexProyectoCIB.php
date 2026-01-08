@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../webroot/styles.css">
+    <!--<link rel="stylesheet" href="webroot/css/estilos.css">-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="icon" type="image/png" href="/Proyecto webs alumnos/media/logoSauces.png">
@@ -12,11 +13,9 @@
 </head>
 <body>
     <header>
-        <div id="logo">
-            <img src="../webroot/images/logoSauces.png" alt="logoIesSauces" width="100" height="100">
-            <h1><a href="../index.html">Alejandro De la Huerga </a></h1>
-        </div>
-        
+        <!--<img src="../webroot/images/logoSauces.png" alt="logoIesSauces" width="100" height="100">-->
+        <h1>FUNDAMENTOS DE CIBERSEGURIDAD</h1>
+        <h2><a href="../index.html">Alejandro De la Huerga </a></h2>
     </header>
     <main>
         <section id="asignaturas">
