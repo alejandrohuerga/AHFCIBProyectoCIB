@@ -21,10 +21,10 @@
         <section id="asignaturas">
             <h2>FUNDAMENTOS DE CIBERSEGURIDAD</h2>
             <ul>
-                <li><a href="doc/DocumentacionTema1.pdf" target="_blank">GLOSARIO</a></li>
+                <li><a href="webroot/images/DocumentacionTema1.pdf" target="_blank">GLOSARIO</a></li>
                 <li><a href="https://github.com/alejandrohuerga/AHFDAWProyectoDAw" target="_blank">DOCUMENTACIÓN SERVIDOR WEB SEGURO</a></li>
-                <li><a href="doc/251103ProtocoloInstalaciónAlejandroDeLaHuerga.pdf" target="_blank">PROTOCOLO DE INSTALACIÓN</a></li>
-                <li><a href="doc/guia_glosario_ciberseguridad_2021.pdf" target="_blank">GLOSARIO TÉRMINOS INCIBE</a></li>
+                <li><a href="webroot/images/251103ProtocoloInstalaciónAlejandroDeLaHuerga.pdf" target="_blank">PROTOCOLO DE INSTALACIÓN</a></li>
+                <li><a href="webroot/images/guia_glosario_ciberseguridad_2021.pdf" target="_blank">GLOSARIO TÉRMINOS INCIBE</a></li>
             </ul>
         </section>
         
