@@ -23,7 +23,7 @@
                     <h3>UT1:CIBERSEGURIDAD</h3>
                     <li><a href="webroot/images/DocumentacionTema1.pdf" target="_blank">GLOSARIO</a></li>
                     <li><a href="webroot/images/guia_glosario_ciberseguridad_2021.pdf" target="_blank">GLOSARIO TÉRMINOS INCIBE</a></li>
-                    <li><a href="webroot/images//OWASP TOP 10 VULNEARIBILIDADES RELEASE.pdf" target="_blank">OWASP TOP 10 VULNERABILIDADES</a></li>
+                    <li><a href="webroot/images/OWASP TOP 10 VULNEARIBILIDADES RELEASE.pdf" target="_blank">OWASP TOP 10 VULNERABILIDADES</a></li>
                 </div>
                 <div class="container" id="tema2">
                     <h3>UT2:SERVIDOR WEB SEGURO</h3>
